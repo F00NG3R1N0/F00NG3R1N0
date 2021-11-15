@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Foong
 - 👀 I’m interested in Technology and Data
-- 🌱 I’m currently learning Python for Data Analytics
+- 🌱 I’m currently learning Data Analyst Course: Complete Data Analyst Bootcamp 2021 in Udemy
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yapsiakfoong/)
 
 <!---
