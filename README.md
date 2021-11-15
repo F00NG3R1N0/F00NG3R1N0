@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Foong
 - 👀 I’m interested in Technology and Data
 - 🌱 I’m currently learning Python for Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yapsiakfoong/)
 
 <!---
