@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Foong
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Analyst Course: Complete Data Analyst Bootcamp 2021 in Udemy
+- 🌱 I’m currently learning 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yapsiakfoong/)
 - 🌐 Check out my website I built with GitHub at 
 
