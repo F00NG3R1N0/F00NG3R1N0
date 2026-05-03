@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Foong
-- 👀 I’m interested in Technology and Data
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Analyst Course: Complete Data Analyst Bootcamp 2021 in Udemy
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yapsiakfoong/)
+- 🌐 Check out my website I built with GitHub at 
 
 <!---
 F00NG3R1N0/F00NG3R1N0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
